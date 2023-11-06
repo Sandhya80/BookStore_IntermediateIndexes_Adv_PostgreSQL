@@ -1,0 +1,100 @@
+customer_id,first_name,last_name,email_address,home_phone,city,state_name,years_old
+67569,Amber,Adams,Amber.Adams@example.com,202-555-0707,Pittsburgh,Pennsylvania,1
+64515,Ashley,Adams,Ashley.Adams@example.com,202-555-0299,Jacksonville,Florida,1
+98506,Gregory,Adams,Gregory.Adams@example.com,202-555-0398,Minneapolis,Minnesota,1
+76566,Joe,Adams,Joe.Adams@example.com,202-555-4680,St. Petersburg,Florida,1
+63266,Johnny,Adams,Johnny.Adams@example.com,202-555-0394,Baltimore,Maryland,1
+22695,Judith,Adams,Judith.Adams@example.com,202-555-0073,Lubbock,Texas,1
+49516,Peter,Adams,Peter.Adams@example.com,202-555-0473,Colorado Springs,Colorado,1
+57759,Ronald,Adams,Ronald.Adams@example.com,202-555-0473,Jacksonville,Florida,1
+91430,Rose,Adams,Rose.Adams@example.com,202-555-0679,St. Petersburg,Florida,1
+22747,Ruth,Adams,Ruth.Adams@example.com,202-555-0264,Phoenix,Arizona,1
+70469,Adam,Allen,Adam.Allen@example.com,202-555-0615,Phoenix,Arizona,1
+36646,Christina,Allen,Christina.Allen@example.com,202-555-0410,Laredo,Texas,1
+90901,George,Allen,George.Allen@example.com,202-555-4680,Lincoln,Nebraska,1
+49317,Jacqueline,Allen,Jacqueline.Allen@example.com,202-555-0779,Seattle,Washington,1
+11206,Jennifer,Allen,Jennifer.Allen@example.com,202-555-0946,Fort Worth,Texas,1
+93391,Jessica,Allen,Jessica.Allen@example.com,202-555-3579,Baton Rouge,Louisiana,1
+10507,Madison,Allen,Madison.Allen@example.com,202-555-0410,Lubbock,Texas,1
+38720,Marilyn,Allen,Marilyn.Allen@example.com,202-555-0750,Indianapolis,Indiana,1
+74191,Nicholas,Allen,Nicholas.Allen@example.com,202-555-0264,Dallas,Texas,1
+7104,Richard,Allen,Richard.Allen@example.com,202-555-0394,Cincinnati,Ohio,1
+45229,Ronald,Allen,Ronald.Allen@example.com,202-555-0779,Irvine,California,1
+57069,Virginia,Allen,Virginia.Allen@example.com,202-555-0401,Tampa,Florida,1
+47753,Amanda,Anderson,Amanda.Anderson@example.com,202-555-0615,Phoenix,Arizona,1
+58146,Ann,Anderson,Ann.Anderson@example.com,202-555-0782,Jersey city,New Jersey,1
+30681,Anna,Anderson,Anna.Anderson@example.com,202-555-0424,Portland,Oregon,1
+63786,Edward,Anderson,Edward.Anderson@example.com,202-555-3579,Orlando,Florida,1
+146,Helen,Anderson,Helen.Anderson@example.com,202-555-1357,Charlotte,North Carolina,1
+50233,John,Anderson,John.Anderson@example.com,202-555-0946,Fresno,California,1
+28658,Michelle,Anderson,Michelle.Anderson@example.com,202-555-0779,Kansas city,Missouri,1
+95991,Nicole,Anderson,Nicole.Anderson@example.com,202-555-0946,Colorado Springs,Colorado,1
+89774,Terry,Anderson,Terry.Anderson@example.com,202-555-0779,Fort Wayne,Indiana,1
+53872,Beverly,Bailey,Beverly.Bailey@example.com,202-555-0750,Raleigh,North Carolina,1
+88909,Catherine,Bailey,Catherine.Bailey@example.com,202-555-0946,Los Angeles,California,1
+88719,Cheryl,Bailey,Cheryl.Bailey@example.com,202-555-0424,Baltimore,Maryland,1
+60530,Frank,Bailey,Frank.Bailey@example.com,202-555-0398,Dallas,Texas,1
+70955,James,Bailey,James.Bailey@example.com,202-555-0401,Richmond,Virginia,1
+92593,Jane,Bailey,Jane.Bailey@example.com,202-555-0008,Corpus Christi,Texas,1
+35121,Jean,Bailey,Jean.Bailey@example.com,202-555-0401,Plano,Texas,1
+80270,Jeremy,Bailey,Jeremy.Bailey@example.com,202-555-5791,Portland,Oregon,1
+61001,Karen,Bailey,Karen.Bailey@example.com,202-555-0373,Washington,District of Columbia,1
+5288,Kenneth,Bailey,Kenneth.Bailey@example.com,202-555-0398,Fresno,California,1
+8143,Marie,Bailey,Marie.Bailey@example.com,202-555-0401,Tucson,Arizona,1
+55197,Sharon,Bailey,Sharon.Bailey@example.com,202-555-0220,Minneapolis,Minnesota,1
+57630,Timothy,Bailey,Timothy.Bailey@example.com,202-555-0073,Minneapolis,Minnesota,1
+75965,Catherine,Baker,Catherine.Baker@example.com,202-555-0299,Pittsburgh,Pennsylvania,1
+48193,Christian,Baker,Christian.Baker@example.com,202-555-0264,Los Angeles,California,1
+62391,Eugene,Baker,Eugene.Baker@example.com,202-555-0473,Cincinnati,Ohio,1
+59656,Gregory,Baker,Gregory.Baker@example.com,202-555-0401,Saint Paul,Minnesota,1
+56011,Martha,Baker,Martha.Baker@example.com,202-555-0410,New Orleans,Louisiana,1
+80725,Sharon,Baker,Sharon.Baker@example.com,202-555-0779,Plano,Texas,1
+41949,Zachary,Baker,Zachary.Baker@example.com,202-555-0473,Irving,Texas,1
+37151,Anna,Barnes,Anna.Barnes@example.com,202-555-0398,Atlanta,Georgia,1
+69013,Anthony,Barnes,Anthony.Barnes@example.com,202-555-0410,Baltimore,Maryland,1
+79129,Brian,Barnes,Brian.Barnes@example.com,202-555-0264,New Orleans,Louisiana,1
+41451,Ethan,Barnes,Ethan.Barnes@example.com,202-555-1357,Newark,New Jersey,1
+33991,Joyce,Barnes,Joyce.Barnes@example.com,202-555-0932,Santa Ana,California,1
+29324,Pamela,Barnes,Pamela.Barnes@example.com,202-555-0281,Saint Paul,Minnesota,1
+13975,Rebecca,Barnes,Rebecca.Barnes@example.com,202-555-0008,Aurora,Colorado,1
+67953,Roger,Barnes,Roger.Barnes@example.com,202-555-0190,Los Angeles,California,1
+57280,Rose,Barnes,Rose.Barnes@example.com,202-555-3579,Oakland,California,1
+60725,Terry,Barnes,Terry.Barnes@example.com,202-555-0932,Hialeah,Florida,1
+99120,Thomas,Barnes,Thomas.Barnes@example.com,202-555-0281,St. Louis,Missouri,1
+53389,Amber,Bell,Amber.Bell@example.com,202-555-3579,Oklahoma city,Oklahoma,1
+12275,Diana,Bell,Diana.Bell@example.com,202-555-4680,San Antonio,Texas,1
+82543,Diane,Bell,Diane.Bell@example.com,202-555-6802,Minneapolis,Minnesota,1
+23024,George,Bell,George.Bell@example.com,202-555-0412,Anaheim,California,1
+59018,Gloria,Bell,Gloria.Bell@example.com,202-555-4680,St. Petersburg,Florida,1
+20704,Grace,Bell,Grace.Bell@example.com,202-555-0679,St. Louis,Missouri,1
+93220,Jeffrey,Bell,Jeffrey.Bell@example.com,202-555-0473,Mesa,Arizona,1
+97323,Johnny,Bell,Johnny.Bell@example.com,202-555-0264,Philadelphia,Pennsylvania,1
+96900,Kenneth,Bell,Kenneth.Bell@example.com,202-555-0412,Charlotte,North Carolina,1
+61385,Louis,Bell,Louis.Bell@example.com,202-555-1357,Irving,Texas,1
+51572,Margaret,Bell,Margaret.Bell@example.com,202-555-0281,Las Vegas,Nevada,1
+89348,Marilyn,Bell,Marilyn.Bell@example.com,202-555-4680,Jersey city,New Jersey,1
+59465,Matthew,Bell,Matthew.Bell@example.com,202-555-0473,Portland,Oregon,1
+77743,Anthony,Bennett,Anthony.Bennett@example.com,202-555-0398,New Orleans,Louisiana,1
+99749,Bradley,Bennett,Bradley.Bennett@example.com,202-555-0615,Houston,Texas,1
+79199,Cheryl,Bennett,Cheryl.Bennett@example.com,202-555-0137,Scottsdale,Arizona,1
+58082,Frances,Bennett,Frances.Bennett@example.com,202-555-0932,North Las Vegas,Nevada,1
+75888,Grace,Bennett,Grace.Bennett@example.com,202-555-6802,Saint Paul,Minnesota,1
+79725,Jeffrey,Bennett,Jeffrey.Bennett@example.com,202-555-0738,Miami,Florida,1
+58974,Joshua,Bennett,Joshua.Bennett@example.com,202-555-0955,Seattle,Washington,1
+11950,Julia,Bennett,Julia.Bennett@example.com,202-555-0955,Albuquerque,New Mexico,1
+25692,Lawrence,Bennett,Lawrence.Bennett@example.com,202-555-0955,Fresno,California,1
+33160,Randy,Bennett,Randy.Bennett@example.com,202-555-0679,Santa Ana,California,1
+38410,Theresa,Bennett,Theresa.Bennett@example.com,202-555-0398,Durham,North Carolina,1
+65450,Zachary,Bennett,Zachary.Bennett@example.com,202-555-0073,Newark,New Jersey,1
+563,Dennis,Brooks,Dennis.Brooks@example.com,202-555-0707,Reno,Nevada,1
+24765,Donald,Brooks,Donald.Brooks@example.com,202-555-0679,Buffalo,New York,1
+86088,Gregory,Brooks,Gregory.Brooks@example.com,202-555-4680,New York,New York,1
+16286,Helen,Brooks,Helen.Brooks@example.com,202-555-0264,Laredo,Texas,1
+82836,Nicholas,Brooks,Nicholas.Brooks@example.com,202-555-0738,Fort Worth,Texas,1
+57256,Sharon,Brooks,Sharon.Brooks@example.com,202-555-0205,Las Vegas,Nevada,1
+66657,Thomas,Brooks,Thomas.Brooks@example.com,202-555-0137,Mesa,Arizona,1
+14219,Timothy,Brooks,Timothy.Brooks@example.com,202-555-0373,Baltimore,Maryland,1
+27353,Bobby,Brown,Bobby.Brown@example.com,202-555-0412,Dallas,Texas,1
+49453,Danielle,Brown,Danielle.Brown@example.com,202-555-0137,Tulsa,Oklahoma,1
+90738,Danielle,Brown,Danielle.Brown@example.com,202-555-0264,Riverside,California,1
+61713,Deborah,Brown,Deborah.Brown@example.com,202-555-0473,Riverside,California,1

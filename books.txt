@@ -1,0 +1,51 @@
+book_id,Book,Author(s),Original language,First published,Approximate sales (in millions),Price
+1,The Little Prince (Le Petit Prince),Antoine de Saint-Exupery,French,1943,150,11.95
+2,The Hobbit,J. R. R. Tolkien,English,1937,150,10.91
+3,Harry Potter and the Philosopher's Stone,J. K Rowling,English,1997,120,13.64
+4,And Then There Were None,Agatha Christie,English,1939,100,15.39
+5,Dream of the Red Chamber,Cao Xueqin,Chinese,1791,100,12.91
+6,"The Lion, the Witch and the Wardrobe",C. S. Lewis,English,1950,85,16.94
+7,She: A History of Adventure,H. Rider Haggard,English,1887,83,15.73
+8,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,80,15.51
+9,The Da Vinci Code,Dan Brown,English,2003,80,16.04
+10,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77,15.95
+11,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,1999,65,19.75
+12,Harry Potter and the Goblet of Fire,J. K. Rowling,English,2000,65,18.77
+13,Harry Potter and the Order of the Phoenix,J. K. Rowling,English,2003,65,17.82
+14,Harry Potter and the Half-Blood Prince,J. K. Rowling,English,2005,65,16.85
+15,Harry Potter and the Deathly Hallows,J. K. Rowling,English,2007,65,15.88
+16,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,65,14.58
+17,The Catcher in the Rye,J. D. Salinger,English,1951,65,13.02
+18,The Bridges of Madison County,Robert James Waller,English,1992,60,15.2
+19,Ben-Hur: A Tale of the Christ,Lew Wallace,English,1880,50,18.6
+20,You Can Heal Your Life,Louise Hay,English,1984,50,19.68
+21,One Hundred Years of Solitude (Cien anos de soledad),Gabriel Garcia Marquez,Spanish,1967,50,18.34
+22,Lolita,Vladimir Nabokov,English,1955,50,17.1
+23,Heidi,Johanna Spyri,Swiss German,1880,50,14.6
+24,The Common Sense Book of Baby and Child Care,Dr. Benjamin Spock,English,1946,50,14.92
+25,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50,13.16
+26,Black Beauty,Anna Sewell,English,1877,50,11.54
+27,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50,12.6
+28,The Eagle Has Landed,Jack Higgins,English,1975,50,11.5
+29,Watership Down,Richard Adams,English,1972,50,10.44
+30,The Hite Report,Shere Hite,English,1976,50,9.52
+31,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50,8.04
+32,The Ginger Man,J. P. Donleavy,English,1955,50,7.1
+33,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45,9.27
+34,Jonathan Livingston Seagull,Richard Bach,English,1970,44,10.77
+35,The Very Hungry Caterpillar,Eric Carle,English,1969,43,10.79
+36,A Message to Garcia,Elbert Hubbard,English,1899,40,11.48
+37,To Kill a Mockingbird,Harper Lee,English,1960,40,12
+38,Flowers in the Attic,V. C. Andrews,English,1979,40,11.48
+39,Cosmos,Carl Sagan,English,1980,40,10.5
+40,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40,9.78
+41,Angels & Demons,Dan Brown,English,2000,39,10.28
+42,Kane and Abel,Jeffrey Archer,English,1979,37,11.49
+43,How the Steel Was Tempered,Nikolai Ostrovsky,Russian,1932,36.4,10.08
+44,War and Peace,Leo Tolstoy,Russian,1869,36,7.92
+45,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35,10.63
+46,Your Erroneous Zones,Wayne Dyer,English,1976,35,10.46
+47,The Thorn Birds,Colleen McCullough,English,1977,33,12.91
+48,The Purpose Driven Life,Rick Warren,English,2002,33,12.67
+49,The Kite Runner,Khaled Hosseini,English,2003,31.5,14.59
+50,Valley of the Dolls,Jacqueline Susann,English,1966,31,13.42
